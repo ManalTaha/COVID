@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">COVID Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Covid-19 Tracker</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="coronavirusapplogo">coronaVirusAppLogo</string>
+    <string name="InstructionContent">InstructionContent</string>
+    <string name="recover">Recover</string>
+    <string name="confirm">Confirm</string>
+    <string name="recovered">Recovered</string>
+    <string name="death">Death</string>
+    <string name="fetch">Fetch…</string>
+    <string name="infected">Infected</string>
+    <string name="country">Country</string>
+
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_history">History</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="check_connection">Something went wrong, Please try again</string>
+    <string name="updates">Updates</string>
+    <string name="Covid_19">Covid - 19 </string>
+    <string name="Data_provided_by">Data provided by: Coronavirus monitor</string>
+    <string name="chooseCountry">"Choose Country : "</string>
+    <string name="choose_date">Choose Date : </string>
+    <string name="channel_id">channel1</string>
+    <string name="update_intervals">Update Intervals</string>
+    <string name="country_for_notification">Country for notification</string>
+    <string name="save">Subscribe</string>
+
+    <string-array name="intervals">
+        <item>None</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>5 hours</item>
+        <item>Once a day</item>
+    </string-array>
+    <string name="none">None</string>
+    <string name= "one_hour">1 hour</string>
+    <string name= "two_hours">2 hours</string>
+    <string name= "five_hours">5 hours</string>
+    <string name= "once_day"> Once a day</string>
+    <string name="country_data">countryData</string>
+    <string name="total_cases">totalCases</string>
+    <string name="country_name">countryName</string>
+    <string name="total_recovered">totalRecovered</string>
+    <string name="total_deaths">totalDeaths</string>
+    <string name="settingDesc">You can follow the updates on your country and receive notifications,All you need is making a subscription .</string>
+    <string name="total_recovered_history">Total recovered</string>
+    <string name="total_deaths_history">Total Deaths</string>
+    <string name="total_cases_history">Total cases</string>
+    <string name="new_deaths">New Deaths</string>
+    <string name="new_cases">New cases</string>
+    <string name="search">Search</string>
+    <string name="interval_number">intervalNumber</string>
+    <string name="select_country">Select country</string>
+    <string name="ok">OK</string>
+    <string name="usa">USA</string>
+    <string name="date_format">yyyy-MM-dd</string>
+    <string name="no_data">no data</string>
+    <string name="date_error">choose date for search</string>
+    <string name="action">Action</string>
+    <string name="wait_moment">Please wait a moment</string>
+    <string name= "connect_error">Cannot connect right now</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

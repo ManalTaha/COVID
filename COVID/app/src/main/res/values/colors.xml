@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#15875c</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#15875c</color>
+    <color name="gray">#cccccc</color>
+    <color name="font_color">#999999</color>
+    <color name="night">#121212</color>
+    <color name="splash_color">#15875c</color>
+    <color name="home_color"> #effbe9</color>
+    <color name="black_night">#121212</color>
+    <color name="white_night">#ffffff</color>
+    <color name="confirm">#F8A529</color>
+    <color name="death">#FF1212</color>
+    <color name="recover">#26DF2C</color>
+    <color name="card">#d9eae0</color>
+
+
+
+</resources>
